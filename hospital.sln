@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hospital", "hospital\hospital.csproj", "{FE758E9F-A4D2-4A44-9E75-E154ED988D5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hospitalBLL", "hospitalBLL\hospitalBLL.csproj", "{83B343BF-523C-4729-844E-F2820F13E071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hospitalDAL", "hospitalDAL\hospitalDAL.csproj", "{4A9FA4E9-A760-4088-B745-500DABFA5BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hospitalModel", "hospitalModel\hospitalModel.csproj", "{CD87872A-A9AC-4C1B-AE8E-F3A855479626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{FE758E9F-A4D2-4A44-9E75-E154ED988D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE758E9F-A4D2-4A44-9E75-E154ED988D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE758E9F-A4D2-4A44-9E75-E154ED988D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B343BF-523C-4729-844E-F2820F13E071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B343BF-523C-4729-844E-F2820F13E071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B343BF-523C-4729-844E-F2820F13E071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B343BF-523C-4729-844E-F2820F13E071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9FA4E9-A760-4088-B745-500DABFA5BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9FA4E9-A760-4088-B745-500DABFA5BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9FA4E9-A760-4088-B745-500DABFA5BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9FA4E9-A760-4088-B745-500DABFA5BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD87872A-A9AC-4C1B-AE8E-F3A855479626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD87872A-A9AC-4C1B-AE8E-F3A855479626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD87872A-A9AC-4C1B-AE8E-F3A855479626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD87872A-A9AC-4C1B-AE8E-F3A855479626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
